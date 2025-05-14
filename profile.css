@@ -1,0 +1,47 @@
+body{
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+    padding: 0;
+    background-image: url(bg.jpg);
+    back
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100%;
+   
+    
+}
+header button {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+header button img {
+   
+    width: 500px;
+    height: 120px;
+}
+
+    
+
+label{
+
+    font-weight: bolder;
+    font-size: 40px;
+    color: #31BCE8;
+}
+.work-resume{
+    display: flex;
+    flex-flow: column;
+    
+}
+input[type=file]{
+    display: flex;
+    border: none;
+    
+}
